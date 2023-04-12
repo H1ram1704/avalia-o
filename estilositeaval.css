@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+    color: rgba(255, 136, 0, 0.837);
+}
+div#top{
+    background-image: url("img/Bancoalimentos.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 870px;
+    height: 200px;
+    background-color: rgb(215, 127, 4);
+    background-size:contain;
+    border-radius: 20px;
+}
+div#menu{
+    border-radius: 20px;
+    border-color: rgb(215, 127, 4);
+}
+a{
+    color: rgb(215, 127, 4) ;
+    float: left;
+}
+fieldset{
+    border-radius: 20px;
+    border-color: rgb(215, 127, 4);
+    padding-left: 10px;
+}
